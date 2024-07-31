@@ -1,0 +1,224 @@
+.container{
+    display: flex;
+    height: 100vh;
+}
+.left{
+    flex: 1;
+    margin-left: 10%;
+}
+.right{
+    flex: 1;
+    margin-top: 5%;
+    margin-left: 2% ;
+}
+#teacherlogo{
+    height: 75%;
+    width: 75%;
+}
+
+.labels{
+    font-size: 22;
+}
+.inputfields{
+    height: 10%;
+    width: 70%;
+}
+header{
+    background-color: lightcoral
+
+}
+.headerlogo{
+    height: 15%;
+    width: 15%;
+    margin-left:45%;
+}
+.button{
+    margin-top: 5%;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 70%;
+    font-size: 22;
+}
+.button:hover{
+    background-color: lightgreen;
+}
+.anchormsg{
+    font-size: 20px;
+}
+.logout{
+    margin-left: 32%;
+    background-color:aquamarine;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    align-items: center;
+    width: 8%;
+    height: 3%;
+    font-size: 18px;
+    
+}
+.homehead{
+    display: flex;
+    align-items: center;
+    margin-right: 5%;
+}
+.logout:hover{
+    background-color: lightgreen;
+}
+.timetablelogo{
+    margin-top: 2%;
+    margin-left: 12%;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.timetablelogo:hover{
+    background-color: aqua;
+}
+.attendlogo{
+    margin-top: 2%;
+    margin-left: 4%;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.attendlogo:hover{
+    background-color: aqua;
+}
+.syllabuslogo{
+    margin-top: 2%;
+    margin-left: 4%;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.syllabuslogo:hover{
+    background-color: aqua;
+}
+.acadlogo{
+    margin-top: 2%;
+    margin-left: 4%;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.acadlogo:hover{
+    background-color: aqua;
+}
+.noteslogo{
+    margin-top: 2%;
+    margin-left: 4%;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.noteslogo:hover{
+    background-color: aqua;
+}
+.tutoriallogo{
+    margin-top: 2%;
+    margin-left: 28%;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.tutoriallogo:hover{
+    background-color: aqua;
+}
+.timetablehead{
+    font-size: 18px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    height: 100px;
+    width: 100%;
+}
+td{
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    font: bolder;
+}
+.tablenames{
+    font: bolder;
+    font-size: 18px;
+}
+.homebutton{
+    margin-left: 30%;
+    border-radius: 100px;
+}
+.homebutton:hover{
+    background-color: green;
+}
+.syllabuslogos{
+    margin-top: 10%;
+    margin-left: 8%;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.syllabuslogos:hover{
+    background-color: aqua;
+}
+.saveattendance{
+    margin-left: 5%;
+    margin-top: 3%;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 20%;
+    font-size: 22;
+}
+.saveattendance:hover{
+    background-color: lightgreen;
+}
+.viewattendance{
+    margin-left: 70%;
+    background-color: aquamarine;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 20%;
+    font-size: 22;
+}
+.viewattendance:hover{
+    background-color: lightgreen;
+
+}
+.viewbtn{
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 80%;
+    font-size: 18;
+}
+.viewbtn:hover{
+    background-color: lightgreen;
+}
+.rnofield{
+    height: 80%;
+    width: 95%;
+}
+.editbtn{
+    margin-top: 1%;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 20%;
+    font-size: 18;
+}
+.editbtn:hover{
+    background-color: lightgreen;
+}
